@@ -1,11 +1,11 @@
-numpy>=1.13
-pyyaml>=3.12
-matplotlib
-opencv-python>=3.2
-setuptools
-Cython
-mock
-scipy
-six
-future
-protobuf
+numpy>=1.13 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pyyaml>=3.12 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple/
+opencv-python>=3.2 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+setuptools -i https://pypi.tuna.tsinghua.edu.cn/simple/
+Cython -i https://pypi.tuna.tsinghua.edu.cn/simple/
+mock -i https://pypi.tuna.tsinghua.edu.cn/simple/
+scipy -i https://pypi.tuna.tsinghua.edu.cn/simple/
+six -i https://pypi.tuna.tsinghua.edu.cn/simple/
+future -i https://pypi.tuna.tsinghua.edu.cn/simple/
+protobuf -i https://pypi.tuna.tsinghua.edu.cn/simple/
